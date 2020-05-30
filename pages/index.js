@@ -39,4 +39,3 @@ export default function Home({ allPostsData }) {
     </Layout>
   )
 }
-next dev --port $PORT
